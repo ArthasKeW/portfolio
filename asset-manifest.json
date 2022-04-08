@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.26188544.css",
+    "main.js": "/portfolio/static/js/main.e63bda6d.js",
+    "static/media/me.png": "/portfolio/static/media/me.f9d452e610718a3fd170.png",
+    "static/media/sapceman.PNG": "/portfolio/static/media/sapceman.74e0f7d1b5f9d7fa6ee6.PNG",
+    "static/media/attendance.PNG": "/portfolio/static/media/attendance.05627e251861769474d6.PNG",
+    "static/media/Me_from_tournment.jpg": "/portfolio/static/media/Me_from_tournment.5d7e9dd657758368b36e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.26188544.css.map": "/portfolio/static/css/main.26188544.css.map",
+    "main.e63bda6d.js.map": "/portfolio/static/js/main.e63bda6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26188544.css",
+    "static/js/main.e63bda6d.js"
+  ]
+}
